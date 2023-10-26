@@ -123,3 +123,7 @@ $secondary: #303030;
   width: 36px;
   height: 36px;
 }
+
+.social-icon::before {
+  transform: translateX(-3px);
+}
