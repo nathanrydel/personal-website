@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
   "description": "Personal website for Nathan Rydel",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "repository": "nathanrydel/personal-website",
   "license": "MIT",
